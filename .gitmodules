@@ -1,0 +1,12 @@
+[submodule "intra"]
+	path = intra
+	url = https://github.com/koharudin/ultimate-intra.git
+[submodule "siap"]
+	path = siap
+	url = https://github.com/koharudin/ultimate-siap.git
+[submodule "dossier"]
+	path = dossier
+	url = https://github.com/koharudin/ultimate-dossier.git
+[submodule "presensi"]
+	path = presensi
+	url = https://github.com/koharudin/ultimate-presensi.git
