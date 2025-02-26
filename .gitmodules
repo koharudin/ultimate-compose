@@ -10,3 +10,6 @@
 [submodule "presensi"]
 	path = presensi
 	url = https://github.com/koharudin/ultimate-presensi.git
+[submodule "sso"]
+	path = sso
+	url = https://github.com/koharudin/ultimate-sso.git
