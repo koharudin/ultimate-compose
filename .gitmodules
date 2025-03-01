@@ -13,3 +13,15 @@
 [submodule "sso"]
 	path = sso
 	url = https://github.com/koharudin/ultimate-sso.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/koharudin/ultimate-backend.git
+	branch = main
+[submodule "backend2"]
+	path = backend2
+	url = https://github.com/koharudin/Node-Prisma-Typescript-Blog-Api
+	branch = main
+[submodule "backend-laravel"]
+	path = backend-laravel
+	url = https://github.com/koharudin/ultimate-backend-laravel.git
+	branch = main
