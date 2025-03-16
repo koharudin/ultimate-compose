@@ -1,3 +1,0 @@
-docker-dev-volumes/minio_config/*
-docker-dev-volumes/minio_data/*
-docker-dev-volumes/pg_data/*
